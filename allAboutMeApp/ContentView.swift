@@ -86,6 +86,8 @@ struct ContentView: View {
                     .background(Color(red: 0.40, green: 0.04, blue: 0.15, opacity: 1.0))
                     .cornerRadius(15.0)
                     .padding()
+                    
+                    Text("hello")
                 }
                     
             }
